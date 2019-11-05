@@ -1,10 +1,10 @@
 
 <?php
 $probabilities = array(
-    "Dallas" => 50,
-    "Toronto" => 25,
-    "Green Bay" => 15,
-    "St Louis" => 10,
+    "Dallas" => .5,
+    "Toronto" => .25,
+    "Green Bay" => .15,
+    "St Louis" => .1,
     
 );
 
